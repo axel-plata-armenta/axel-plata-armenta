@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Banner" />
+  <img src="./github-header-banner.png" alt="Axel Plata Armenta Banner" width="100%">
 </p>
 
 # Hi, I'm Axel Plata Armenta 👋
