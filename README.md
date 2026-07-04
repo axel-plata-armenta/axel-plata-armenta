@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Axel Plata Armenta 👋
 
-<!--
-**axel-plata-armenta/axel-plata-armenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Software Engineer • Software Architect • AI & Cloud Engineer
 
-Here are some ideas to get you started:
+Over the past 15 years, I've designed software that processes large volumes of data, integrates complex business workflows and scales reliably in production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving architectural problems, simplifying complex systems, and building platforms that other engineers can extend with confidence.
+
+My primary interests are software architecture, AI engineering, cloud infrastructure, observability and developer productivity.
+
+---
+
+## Engineering Philosophy
+
+I believe software should be simple to understand, easy to operate and designed to evolve.
+
+I value clear architecture, practical solutions and systems that remain maintainable as they grow.
+
+---
+
+## 🚀 Core Expertise
+
+- Software Architecture
+- Distributed Systems
+- Backend Engineering
+- Cloud Architecture
+- AI & LLM Integration
+- DevOps & Infrastructure
+- Kubernetes
+- CI/CD Automation
+- Database Design
+- Performance Engineering
+
+---
+
+## 📚 Current Focus
+
+- Enterprise AI Platforms
+- Distributed Backend Systems
+- Kubernetes Infrastructure
+- Cloud Automation
+- System Design
+- Developer Tooling
