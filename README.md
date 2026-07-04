@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner" />
+</p>
+
 # Hi, I'm Axel Plata Armenta 👋
 
 ## Senior Software Engineer • Software Architect • AI & Cloud Engineer
